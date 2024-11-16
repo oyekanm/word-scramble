@@ -1,1 +1,1 @@
-export {default as WordScramble}
+export {default as WordScramble} from "./wordScrambleComponent"

@@ -1,7 +1,8 @@
+import WordScrambleComponent from "./components/wordScrambleComponent"
 
 function App() {
 
-  return <WordScramble />
+  return <WordScrambleComponent />
 }
 
 export default App
